@@ -1,0 +1,28 @@
+{
+    "name": "Dyslexia Mode",
+    "description": "Enable dyslexia options for a website.",
+    "keywords" : [
+        "dyslexia", "accessibility", "usability"
+        ],
+    "version": "0.0.1",
+    "contributors": [
+    {
+        "name" : "Abelardo Gonzalez",
+        "email" : "abbie@abbiecod.es"
+    }
+    ],
+        "repository" : {
+            "type" : "git",
+            "url" : "https://github.com/antijingoist/dyslexiaMode.git"
+        },
+        "main" : "./public/javascripts/dyslexia.js",
+        "dependencies" : {
+            "jquery"    :  "~1.7"
+        },
+        "licenses" : [
+        {
+            "type": "tos",
+            "url": "http://unlicense.org"
+        }
+    ]
+}
