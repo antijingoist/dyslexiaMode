@@ -19,10 +19,3 @@ CloudFlare.define("openDyslexic",  function () {
     theResult = openDyslexic.applyStyle();
     return theResult;
 });
-
-CloudFlare.require(
-    ['cloudflare/console', 'openDyslexic'],
-    function (console, openDyslexic) {
-        console.log("Hello, CloudFlare!");
-    }
-);
