@@ -1,10 +1,10 @@
 {
-    "name": "Dyslexia Mode",
-    "description": "Enable dyslexia options for a website.",
+    "name": "OpenDyslexic",
+    "description": "When enabled, overrides fonts on the site with OpenDyslexic, and adds alternate paragraph shading.",
     "keywords" : [
         "dyslexia", "accessibility", "usability"
         ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "contributors": [
     {
         "name" : "Abelardo Gonzalez",
@@ -17,7 +17,6 @@
         },
         "main" : "./public/javascripts/dyslexia.js",
         "dependencies" : {
-            "jquery"    :  "~1.7"
         },
         "licenses" : [
         {
