@@ -12,17 +12,22 @@
         "email" : "abbie@abbiecod.es"
     }
     ],
-        "repository" : {
-            "type" : "git",
-            "url" : "https://github.com/antijingoist/dyslexiaMode.git"
-        },
-        "main" : "./public/javascripts/dyslexia.js",
-        "dependencies" : {
-        },
-        "licenses" : [
-        {
-            "type": "tos",
-            "url": "http://unlicense.org"
-        }
-    ]
+    "assets" : {
+    "logos" : {
+        "200px": "./public/images/logo-200.png",
+        "132px": "./public/images/logo-132.png"
+    },
+     "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/antijingoist/dyslexiaMode.git"
+     },
+     "main" : "./public/javascripts/dyslexia.js",
+     "dependencies" : {
+     },
+     "licenses" : [
+     {
+         "type": "tos",
+         "url": "http://unlicense.org"
+     }
+ ]
 }
