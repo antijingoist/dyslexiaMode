@@ -12,11 +12,16 @@
         "email" : "abbie@abbiecod.es"
     }
     ],
+    "config" : {
                 "assets" : {
-                "logos" : {
-                    "200px": "./public/images/logo-200.png",
-                    "132px": "./public/images/logo-132.png"
-                }},
+                  "logos" : {
+                      "200px": "./public/images/logo-200.png",
+                      "132px": "./public/images/logo-132.png"
+                  }
+                
+                }
+                
+    },
 
         "repository" : {
             "type" : "git",
