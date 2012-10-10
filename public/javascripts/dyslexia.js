@@ -1,6 +1,6 @@
 /**
  *
- *      CloudFlareJS Hello World
+ *      OpenDyslexic CloudFlare app
  *
  */
 
