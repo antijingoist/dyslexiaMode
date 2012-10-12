@@ -21,15 +21,12 @@
                   "detail_page": [
                          "./public/images/sample.png"
                      ]
-                           }
-                
+                           },
                  "details":{
-            "Category": "fonts",
+            "Category": "Accessibility",
             "Language": "English",
             "Price": "Free",
-            "Restrictions": "None.",
-            "Prosperent": "<a href='http://prosperent.com/terms' target='_blank'>Terms and Conditions</a>"
-        },
+            "Restrictions": "None."},
 },
 
         "repository" : {
