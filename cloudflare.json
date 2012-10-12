@@ -18,8 +18,19 @@
                       "200px": "./public/images/logo-200.png",
                       "132px": "./public/images/logo-132.png"
                             }
+                  "detail_page": [
+                         "./public/images/sample.png"
+                     ]
                            }
-                },
+                
+                 "details":{
+            "Category": "fonts",
+            "Language": "English",
+            "Price": "Free",
+            "Restrictions": "None.",
+            "Prosperent": "<a href='http://prosperent.com/terms' target='_blank'>Terms and Conditions</a>"
+        },
+},
 
         "repository" : {
             "type" : "git",
