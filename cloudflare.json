@@ -4,7 +4,7 @@
     "keywords" : [
         "dyslexia", "accessibility", "usability", "font", "typeface"
         ],
-    "version": "0.5.0",
+    "version": "0.5.1",
     "category": "fonts",
     "contributors": [
     {
@@ -17,7 +17,7 @@
                   "logos" : {
                       "200px": "./public/images/logo-200.png",
                       "132px": "./public/images/logo-132.png"
-                            }
+                            },
                   "detail_page": [
                          "./public/images/sample.png"
                      ]
