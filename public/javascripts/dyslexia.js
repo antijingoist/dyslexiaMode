@@ -9,7 +9,7 @@ CloudFlare.define("openDyslexic",  function () {
     
     openDyslexic.applyStyle = function () {
         var styleSheet = document.createElement('link');
-        styleSheet.setAttribute('href', 'http://antijingoist.github.com/web-accessibility/stylesheets/cloudflare.css');
+        styleSheet.setAttribute('href', 'https://antijingoist.github.com/web-accessibility/stylesheets/cloudflare.css');
         styleSheet.setAttribute('rel', 'stylesheet');
         styleSheet.setAttribute('type', 'text/css');
         document.getElementsByTagName('head')[0].appendChild(styleSheet);
