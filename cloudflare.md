@@ -4,7 +4,7 @@ OpenDyslexic
 This plugin will replace the typeface of your website with OpenDyslexic. It will also enable alternate paragraph shading, and highlight the paragraph under the mouse cursor. This helps keep the focus on what is being read.
 
 Your website will gain these on top of whatever CSS you choose:
-![SampleImage](images/apps/opendyslexic/sample.png)
+![SampleImage](/images/apps/opendyslexic/sample.png)
 
 What is OpenDyslexic?
 ---
